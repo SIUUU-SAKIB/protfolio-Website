@@ -16,7 +16,7 @@ html{
 header{
     width: 100vw;
     height: 100vh;
-    background-image: url(/portfolioWebsite/portfolio-resources-main/images/developer.png),url(/portfolioWebsite/portfolio-resources-main/images/header_bg.png);
+    background-image: url(images/developer.png),url(images/header_bg.png);
     background-repeat: no-repeat;
     background-position: bottom left, bottom right;
 }
